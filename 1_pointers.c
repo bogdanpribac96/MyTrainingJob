@@ -38,6 +38,7 @@ int main(void)
     print_array(a,5,"before");
     reverse_array(a, 5);
     print_array(a,5,"after");
+    //test git with vs code
 
     return 0;
 }
