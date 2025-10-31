@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/cmake_install.cmake",
+		"C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/Helper/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

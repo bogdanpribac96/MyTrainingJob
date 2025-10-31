@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libHelper.a CMakeFiles/Helper.dir/src/1_pointers.c.obj CMakeFiles/Helper.dir/src/1_print_array.c.obj
+C:\MinGW\bin\ranlib.exe libHelper.a

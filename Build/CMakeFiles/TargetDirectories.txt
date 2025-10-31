@@ -1,0 +1,6 @@
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/CMakeFiles/MyTrainingCode.dir
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/CMakeFiles/edit_cache.dir
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/CMakeFiles/rebuild_cache.dir
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/Helper/CMakeFiles/Helper.dir
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/Helper/CMakeFiles/edit_cache.dir
+C:/Users/bogda/Desktop/Prep/MyTrainingCode/Build/Helper/CMakeFiles/rebuild_cache.dir
